@@ -18,7 +18,7 @@ This is a C# console-based e-commerce simulation developed for the **Fawry Quant
 ## 🧠 OOP Design
 
 - Abstract `Product` base class with polymorphic behaviors
-- Interfaces for shipping logic (`IShippable`)
+- Interfaces for shipping logic (`IShippment`)
 - Cart system with quantity control and exception handling
 - Clean separation of concerns (`Cart`, `Customer`, `Product`, `CheckoutService`, `ShippingService`)
 
