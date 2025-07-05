@@ -1,0 +1,29 @@
+C:\Users\mhmd\Desktop\Fawry-Ecommerce\Fawry-Ecommerce\bin\Debug\net8.0\Fawry-Ecommerce.exe
+C:\Users\mhmd\Desktop\Fawry-Ecommerce\Fawry-Ecommerce\bin\Debug\net8.0\Fawry-Ecommerce.deps.json
+C:\Users\mhmd\Desktop\Fawry-Ecommerce\Fawry-Ecommerce\bin\Debug\net8.0\Fawry-Ecommerce.runtimeconfig.json
+C:\Users\mhmd\Desktop\Fawry-Ecommerce\Fawry-Ecommerce\bin\Debug\net8.0\Fawry-Ecommerce.dll
+C:\Users\mhmd\Desktop\Fawry-Ecommerce\Fawry-Ecommerce\bin\Debug\net8.0\Fawry-Ecommerce.pdb
+C:\Users\mhmd\Desktop\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\Fawry-Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmd\Desktop\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\Fawry-Ecommerce.AssemblyInfoInputs.cache
+C:\Users\mhmd\Desktop\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\Fawry-Ecommerce.AssemblyInfo.cs
+C:\Users\mhmd\Desktop\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\Fawry-Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\mhmd\Desktop\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\Fawry-Ecommerce.dll
+C:\Users\mhmd\Desktop\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\refint\Fawry-Ecommerce.dll
+C:\Users\mhmd\Desktop\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\Fawry-Ecommerce.pdb
+C:\Users\mhmd\Desktop\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\Fawry-Ecommerce.genruntimeconfig.cache
+C:\Users\mhmd\Desktop\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\ref\Fawry-Ecommerce.dll
+C:\Users\mhmd\Desktop\New folder (2)\Fawry-Ecommerce\Fawry-Ecommerce\bin\Debug\net8.0\Fawry-Ecommerce.exe
+C:\Users\mhmd\Desktop\New folder (2)\Fawry-Ecommerce\Fawry-Ecommerce\bin\Debug\net8.0\Fawry-Ecommerce.deps.json
+C:\Users\mhmd\Desktop\New folder (2)\Fawry-Ecommerce\Fawry-Ecommerce\bin\Debug\net8.0\Fawry-Ecommerce.runtimeconfig.json
+C:\Users\mhmd\Desktop\New folder (2)\Fawry-Ecommerce\Fawry-Ecommerce\bin\Debug\net8.0\Fawry-Ecommerce.dll
+C:\Users\mhmd\Desktop\New folder (2)\Fawry-Ecommerce\Fawry-Ecommerce\bin\Debug\net8.0\Fawry-Ecommerce.pdb
+C:\Users\mhmd\Desktop\New folder (2)\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\Fawry-Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmd\Desktop\New folder (2)\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\Fawry-Ecommerce.AssemblyInfoInputs.cache
+C:\Users\mhmd\Desktop\New folder (2)\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\Fawry-Ecommerce.AssemblyInfo.cs
+C:\Users\mhmd\Desktop\New folder (2)\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\Fawry-Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\mhmd\Desktop\New folder (2)\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\Fawry-Ecommerce.sourcelink.json
+C:\Users\mhmd\Desktop\New folder (2)\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\Fawry-Ecommerce.dll
+C:\Users\mhmd\Desktop\New folder (2)\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\refint\Fawry-Ecommerce.dll
+C:\Users\mhmd\Desktop\New folder (2)\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\Fawry-Ecommerce.pdb
+C:\Users\mhmd\Desktop\New folder (2)\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\Fawry-Ecommerce.genruntimeconfig.cache
+C:\Users\mhmd\Desktop\New folder (2)\Fawry-Ecommerce\Fawry-Ecommerce\obj\Debug\net8.0\ref\Fawry-Ecommerce.dll
